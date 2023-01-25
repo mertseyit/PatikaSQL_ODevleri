@@ -12,4 +12,4 @@ Kolay Gelsin.
 
 ### SONUÇ
 
-![Cevap](/Odev1.png "Ödev 2")
+![Cevap](/Odev%201/Odev1.png "Ödev 2")
