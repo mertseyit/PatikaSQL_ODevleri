@@ -6,7 +6,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 3. **film** tablosunda bulunan film isimlerinde (title) kaç tanesini T karakteri ile başlar ve aynı zamanda rating 'G' ye eşittir?
 4. **country** tablosunda bulunan ülke isimlerinden (country) kaç tanesi 5 karakterden oluşmaktadır?
 city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
-
+asdf
 Kolay Gelsin.
 
 ### CEVAP
