@@ -9,6 +9,5 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.
 
-Kolay Gelsin.
 ### CEVAP
 ![Cevap](/Odev_7/Odev7.png "Ödev 7")
